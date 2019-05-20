@@ -1,0 +1,14 @@
+C:\sandbox\NotificationImportService\NotificationImportService\bin\Debug\NotificationImportService.exe.config
+C:\sandbox\NotificationImportService\NotificationImportService\bin\Debug\NotificationImportService.exe
+C:\sandbox\NotificationImportService\NotificationImportService\bin\Debug\NotificationImportService.pdb
+C:\sandbox\NotificationImportService\NotificationImportService\bin\Debug\log4net.dll
+C:\sandbox\NotificationImportService\NotificationImportService\bin\Debug\Newtonsoft.Json.dll
+C:\sandbox\NotificationImportService\NotificationImportService\bin\Debug\RestSharp.dll
+C:\sandbox\NotificationImportService\NotificationImportService\bin\Debug\log4net.xml
+C:\sandbox\NotificationImportService\NotificationImportService\bin\Debug\Newtonsoft.Json.xml
+C:\sandbox\NotificationImportService\NotificationImportService\bin\Debug\RestSharp.xml
+C:\sandbox\NotificationImportService\NotificationImportService\obj\Debug\NotificationImportService.csprojAssemblyReference.cache
+C:\sandbox\NotificationImportService\NotificationImportService\obj\Debug\NotificationImportService.csproj.CoreCompileInputs.cache
+C:\sandbox\NotificationImportService\NotificationImportService\obj\Debug\NotificationImportService.csproj.CopyComplete
+C:\sandbox\NotificationImportService\NotificationImportService\obj\Debug\NotificationImportService.exe
+C:\sandbox\NotificationImportService\NotificationImportService\obj\Debug\NotificationImportService.pdb

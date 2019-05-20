@@ -125,7 +125,16 @@ namespace NotificationImportService
                 {
                     if(RestResponse?.Value.Count > 0)
                     {
-
+                        var index = 0;
+                        foreach(var i in RestResponse.Value)
+                        {
+                            if (!string.IsNullOrEmpty(i.PhoneNo))
+                            {
+                                index++;
+                                DataService.RecordNotification(i);
+                            }
+                        }
+                        log.Info(index + " Notification(s) imported");
                     }
                 }
             }
